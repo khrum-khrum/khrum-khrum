@@ -20,15 +20,6 @@ I'm a software engineer with 3+ years of experience building reliable backend sy
 - **Analytics, ML, and AI** — exploring how data can power better products
 - **Blockchain** - participation in hackathons
 
-#### 🏆 Highlights
-
-- Built services handling **600,000 requests per second** with **99.99% availability**
-- Maintained Kubernetes clusters running **1,000+ pods** in production
-- Grew test coverage from 65% to 91% on a critical fintech service
-- Cut deployment times in half and shaved query times by 10x through optimization
-- Grant recipient at the **TON Bootcamp** in St. Petersburg
-- Kubernetes Certified
-
 #### 📫 Get in touch
 
 - LinkedIn: [egor-kravchenko-profile](https://www.linkedin.com/in/egorkravchenko-profile)
