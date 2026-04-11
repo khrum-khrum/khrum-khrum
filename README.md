@@ -12,7 +12,7 @@ I'm a software engineer with 3+ years of experience building reliable backend sy
 
 #### 💼 What I do
 
-- **Backend development** with Golang (and a bit of Rust)
+- **Backend development** with Golang, Python (and a bit of Rust)
 - **Databases**: PostgreSQL, MongoDB, Redis
 - **Cloud & infrastructure**: AWS, GCP, Kubernetes, Terraform
 - **Building CI/CD pipelines** so teams can ship faster and with confidence
