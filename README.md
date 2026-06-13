@@ -1,6 +1,6 @@
 ### Hi there, I'm Egor 👋
 
-I'm a software engineer with 3+ years of experience building reliable backend systems that serve millions of users. I enjoy turning complex product ideas into fast, stable services — and owning the whole journey from the first requirement to the final deployment.
+I'm a software engineer with 4+ years of experience building reliable backend systems that serve millions of users. I enjoy turning complex product ideas into fast, stable services — and owning the whole journey from the first requirement to the final deployment.
 
 #### 🚀 About me
 
